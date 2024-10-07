@@ -10,9 +10,9 @@ const About=()=>{
                 <img className={styles.banner} src={banner}/>
                 <div className={styles.image_wrapper}><img src={image} className={styles.image}/></div>
                 <div className={styles.body_wrapper}>
-                    <p className={styles.title}>The rise of Blaze</p>
+                    <p className={styles.title}>Unleash the fire of fortune</p>
                     <p className={styles.text}>
-                    Meet Blaze, a feisty little dinosaur with a flaming tail and a shiny crown perched on his head. Blaze is the king of mischief in the meme-coin world, always cooking up some playful chaos! He's a symbol of wild fun and unpredictable energy, igniting excitement wherever he goes. His flame represents the fiery rise of meme coins, and his crown? A cheeky nod to his ambition of ruling the meme market. Small in size but big in attitude, Blaze is ready to blaze his trail, leaving a trail of laughter and profit in his wake!
+                    Blaze, the fiery demon dragon, soars through the skies of a volcanic underworld, igniting opportunities with the flames from his tail and ruling the crypto realm with a crown of power. Born from the dark lands of chaos, Blaze brings the heat to meme coins, promising blazing-fast transactions and unrivaled potential. Join the flight and let the fire fuel your fortune!
                     </p>
                 </div>
             </div>
