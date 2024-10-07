@@ -6,7 +6,6 @@
     align-items: center;
     justify-content: center;
     background-repeat:no-repeat;
-    background-image: url("../images/buynow/buynow.gif");
     background-size: cover;
     position: relative;
     /* overflow: hidden; */
@@ -35,8 +34,9 @@
   @media screen and (max-width:500px) {
 
     .mainwrapper{
-        max-height: 880px;
-        min-height: 800px;
+        max-height: 450px;
+        min-height: 450px;
+        background-image: url("../images/buynow/buynow2.gif");
     }
 
     .subwrapper{
@@ -54,8 +54,9 @@
   @media screen and (min-width:501px) and (max-width:1023px) {
 
     .mainwrapper{
-        max-height: 980px;
-        min-height: 900px;
+        max-height: 750px;
+        min-height: 750px;
+        background-image: url("../images/buynow/buynow2.gif");
     }
 
     .subwrapper{
@@ -75,6 +76,7 @@
     .mainwrapper{
         max-height: 880px;
         min-height: 800px;
+        background-image: url("../images/buynow/buynow.gif");
     }
 
     .subwrapper{
@@ -93,6 +95,7 @@
     .mainwrapper{
         max-height: 1080px;
         min-height: 1000px;
+        background-image: url("../images/buynow/buynow.gif");
     }
 
     .subwrapper{
