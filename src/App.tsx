@@ -14,7 +14,7 @@ function App() {
       <div ><Section1/></div>
       {/* <img className={styles.banner} src={banner}/> */}
       <div><About/></div>
-      <div><Memes/></div>
+      {/* <div><Memes/></div> */}
       <div><Buynow/></div>
     </div>
   );
