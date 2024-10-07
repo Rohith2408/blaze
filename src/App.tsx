@@ -5,6 +5,7 @@ import Section1 from './components/Section1';
 import Memes from './components/Memes';
 import About from './components/About';
 import banner from '../images/banner.gif'
+import Buynow from './components/Buynow';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       {/* <img className={styles.banner} src={banner}/> */}
       <div><About/></div>
       <div><Memes/></div>
+      <div><Buynow/></div>
     </div>
   );
 }

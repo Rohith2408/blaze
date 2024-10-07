@@ -48,7 +48,7 @@
   }
 
   .text{
-    color:black;
+    color:white;
     margin: 0;
     font-family: var(--font-patrick-hand);
   }
@@ -65,8 +65,8 @@
   @media screen and (max-width:500px) {
 
     .mainwrapper{
-        max-height: 880px;
-        min-height: 800px;
+        max-height: 740px;
+        min-height: 700px;
     }
 
     .subwrapper{
