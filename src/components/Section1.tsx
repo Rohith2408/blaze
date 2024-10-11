@@ -15,16 +15,16 @@ import insta_icon from '../images/Section1/instagram.png'
 const Section1=()=>{
 
     const socialIcons= useRef([
-        { src: telegram_icon, link: "" },
-        { src: twitter_icon, link: "" },
+        { src: telegram_icon, link: "https://t.me/blazethecoin" },
+        { src: twitter_icon, link: "https://x.com/Blazethecoin?s=09" },
         { src:dex_icon, link: "" },
         { src: dextools_icon, link: "" },
-        { src:coingecko_icon, link: "" },
-        { src:insta_icon, link: "" }
+        // { src:coingecko_icon, link: "" },
+        // { src:insta_icon, link: "" }
     ]).current;
     const [currentbg,setCurrentBg]=useState(0)
     const interval=useRef<any>()
-    const ca=useRef("TBA").current
+    const ca=useRef("8rvsopG6ZB5Nx8tRxZ5sFunnCRcCZshSTaYzC7zfpump").current
 
     useEffect(()=>{
 
