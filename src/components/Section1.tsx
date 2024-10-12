@@ -21,7 +21,7 @@ const Section1=()=>{
         { src: dextools_icon, link: "https://www.dextools.io/app/en/solana/pair-explorer/HhLxPejC26JQtxN2TzjEuARkyraTV3wez3ZGnKZcvAHX?t=1728674999549" },
         // { src:coingecko_icon, link: "" },
         // { src:insta_icon, link: "" }
-    ]).current;
+    ]).current
     const [currentbg,setCurrentBg]=useState(0)
     const interval=useRef<any>()
     const ca=useRef("8rvsopG6ZB5Nx8tRxZ5sFunnCRcCZshSTaYzC7zfpump").current
