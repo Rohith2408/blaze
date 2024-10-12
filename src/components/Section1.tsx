@@ -17,8 +17,8 @@ const Section1=()=>{
     const socialIcons= useRef([
         { src: telegram_icon, link: "https://t.me/blazethecoin" },
         { src: twitter_icon, link: "https://x.com/Blazethecoin?s=09" },
-        { src:dex_icon, link: "" },
-        { src: dextools_icon, link: "" },
+        { src:dex_icon, link: "https://dexscreener.com/solana/hhlxpejc26jqtxn2tzjeuarkyratv3wez3zgnkzcvahx" },
+        { src: dextools_icon, link: "https://www.dextools.io/app/en/solana/pair-explorer/HhLxPejC26JQtxN2TzjEuARkyraTV3wez3ZGnKZcvAHX?t=1728674999549" },
         // { src:coingecko_icon, link: "" },
         // { src:insta_icon, link: "" }
     ]).current;
